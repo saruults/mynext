@@ -114,18 +114,18 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 const Div = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div`
-            width: 95%;
-            text-align: center;
-            bottom: 0;
-            margin: auto;
-            p{
-              font-size: 10px;
-            }
-            hr{
-              border: none;
-               border-bottom: 1.5px dashed;
-              }
-            `;
+	width: 95%;
+	text-align: center;
+	bottom: 0;
+	margin: auto;
+	p {
+		font-size: 10px;
+	}
+	hr {
+		border: none;
+		border-bottom: 1.5px dashed;
+	}
+`;
 
 const Footer = () => __jsx(Div, {
   __source: {
@@ -185,7 +185,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 const Layout = props => __jsx("div", {
-  className: "jsx-423803451",
+  className: "jsx-3599447622",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 6
@@ -198,7 +198,7 @@ const Layout = props => __jsx("div", {
   },
   __self: undefined
 }, __jsx("title", {
-  className: "jsx-423803451",
+  className: "jsx-3599447622",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
@@ -207,7 +207,7 @@ const Layout = props => __jsx("div", {
 }, "GG.mn \u041C\u044D\u0434\u044D\u044D \u043C\u044D\u0434\u044D\u044D\u043B\u044D\u043B, \u0442\u043E\u0433\u043B\u043E\u043E\u043C, \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0445\u0430\u043D\u0433\u0430\u043C\u0436"), __jsx("link", {
   href: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap",
   rel: "stylesheet",
-  className: "jsx-423803451",
+  className: "jsx-3599447622",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9
@@ -226,7 +226,7 @@ const Layout = props => __jsx("div", {
   },
   __self: undefined
 }), __jsx("div", {
-  className: "jsx-423803451" + " " + "container",
+  className: "jsx-3599447622" + " " + "container",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 13
@@ -239,9 +239,9 @@ const Layout = props => __jsx("div", {
   },
   __self: undefined
 })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "423803451",
+  id: "3599447622",
   __self: undefined
-}, ".container.jsx-423803451{margin-left:4rem;padding:1rem;}@media only screen and (max-width:600px){.container.jsx-423803451{margin:0;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcU2FydXVsXFxEZXNrdG9wXFxteW5leHRcXGNvbXBvbmVudHNcXExheW91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQk8sQUFHMEIsQUFLUCxTQUNWLFFBTGEsYUFDZiIsImZpbGUiOiJDOlxcVXNlcnNcXFNhcnV1bFxcRGVza3RvcFxcbXluZXh0XFxjb21wb25lbnRzXFxMYXlvdXQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnO1xyXG5pbXBvcnQgU2lkZU5hdmJhciBmcm9tICcuL1NpZGVOYXZiYXInO1xyXG5pbXBvcnQgVG9wTmF2YmFyIGZyb20gJy4vVG9wTmF2YmFyJztcclxuaW1wb3J0IEZvb3RlciBmcm9tICcuL0Zvb3Rlcic7XHJcbmNvbnN0IExheW91dCA9IChwcm9wcykgPT4gKFxyXG4gIDxkaXY+XHJcbiAgICA8SGVhZD5cclxuICAgICAgPHRpdGxlPkdHLm1uINCc0Y3QtNGN0Y0g0LzRjdC00Y3RjdC70Y3Quywg0YLQvtCz0LvQvtC+0LwsINC/0YDQvtCz0YDQsNC8INGF0LDQvdCz0LDQvNC2PC90aXRsZT5cclxuICAgICAgPGxpbmsgaHJlZj1cImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1PcGVuK1NhbnM6MzAwLDQwMCw3MDAmZGlzcGxheT1zd2FwXCIgcmVsPVwic3R5bGVzaGVldFwiPjwvbGluaz5cclxuICAgIDwvSGVhZD5cclxuICAgIDxTaWRlTmF2YmFyLz5cclxuICAgIDxUb3BOYXZiYXIvPlxyXG4gICAgPGRpdiBjbGFzc05hbWU9XCJjb250YWluZXJcIj5cclxuICAgICAge3Byb3BzLmNoaWxkcmVufVxyXG4gICAgICBcclxuICAgICAgPEZvb3Rlci8+XHJcbiAgICA8L2Rpdj5cclxuICAgIFxyXG4gICAgPHN0eWxlIGpzeD5cclxuICAgICAge2BcclxuICAgICAgLmNvbnRhaW5lcntcclxuICAgICAgICBtYXJnaW4tbGVmdDogNHJlbTtcclxuICAgICAgICBwYWRkaW5nOiAxcmVtO1xyXG4gICAgICB9XHJcbiAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNjAwcHgpIHtcclxuICAgICAgICAuY29udGFpbmVye1xyXG4gICAgICAgICAgbWFyZ2luOjA7XHJcbiAgICAgICAgfVxyXG4gICAgICB9XHJcbiAgICAgIGB9XHJcbiAgICA8L3N0eWxlPlxyXG4gIDwvZGl2PlxyXG4pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgTGF5b3V0OyJdfQ== */\n/*@ sourceURL=C:\\\\Users\\\\Saruul\\\\Desktop\\\\mynext\\\\components\\\\Layout.js */"));
+}, ".container.jsx-3599447622{margin-left:4rem;padding:1rem;}@media only screen and (max-width:600px){.container.jsx-3599447622{margin:0;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcU2FydXVsXFxEZXNrdG9wXFxteW5leHRcXGNvbXBvbmVudHNcXExheW91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQkksQUFHdUIsQUFLUCxTQUNWLFFBTGEsYUFDZCIsImZpbGUiOiJDOlxcVXNlcnNcXFNhcnV1bFxcRGVza3RvcFxcbXluZXh0XFxjb21wb25lbnRzXFxMYXlvdXQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnO1xyXG5pbXBvcnQgU2lkZU5hdmJhciBmcm9tICcuL1NpZGVOYXZiYXInO1xyXG5pbXBvcnQgVG9wTmF2YmFyIGZyb20gJy4vVG9wTmF2YmFyJztcclxuaW1wb3J0IEZvb3RlciBmcm9tICcuL0Zvb3Rlcic7XHJcbmNvbnN0IExheW91dCA9IChwcm9wcykgPT4gKFxyXG5cdDxkaXY+XHJcblx0XHQ8SGVhZD5cclxuXHRcdFx0PHRpdGxlPkdHLm1uINCc0Y3QtNGN0Y0g0LzRjdC00Y3RjdC70Y3Quywg0YLQvtCz0LvQvtC+0LwsINC/0YDQvtCz0YDQsNC8INGF0LDQvdCz0LDQvNC2PC90aXRsZT5cclxuXHRcdFx0PGxpbmsgaHJlZj1cImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1PcGVuK1NhbnM6MzAwLDQwMCw3MDAmZGlzcGxheT1zd2FwXCIgcmVsPVwic3R5bGVzaGVldFwiIC8+XHJcblx0XHQ8L0hlYWQ+XHJcblx0XHQ8U2lkZU5hdmJhciAvPlxyXG5cdFx0PFRvcE5hdmJhciAvPlxyXG5cdFx0PGRpdiBjbGFzc05hbWU9XCJjb250YWluZXJcIj5cclxuXHRcdFx0e3Byb3BzLmNoaWxkcmVufVxyXG5cclxuXHRcdFx0PEZvb3RlciAvPlxyXG5cdFx0PC9kaXY+XHJcblxyXG5cdFx0PHN0eWxlIGpzeD5cclxuXHRcdFx0e2BcclxuXHRcdFx0XHQuY29udGFpbmVyIHtcclxuXHRcdFx0XHRcdG1hcmdpbi1sZWZ0OiA0cmVtO1xyXG5cdFx0XHRcdFx0cGFkZGluZzogMXJlbTtcclxuXHRcdFx0XHR9XHJcblx0XHRcdFx0QG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA2MDBweCkge1xyXG5cdFx0XHRcdFx0LmNvbnRhaW5lciB7XHJcblx0XHRcdFx0XHRcdG1hcmdpbjogMDtcclxuXHRcdFx0XHRcdH1cclxuXHRcdFx0XHR9XHJcblx0XHRcdGB9XHJcblx0XHQ8L3N0eWxlPlxyXG5cdDwvZGl2PlxyXG4pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgTGF5b3V0O1xyXG4iXX0= */\n/*@ sourceURL=C:\\\\Users\\\\Saruul\\\\Desktop\\\\mynext\\\\components\\\\Layout.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Layout);
 
@@ -384,42 +384,42 @@ const SideNavbar = () => __jsx(Nav, {
   className: "",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 119
+    lineNumber: 118
   },
   __self: undefined
 }, __jsx("ul", {
   className: "navbar-nav",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 120
+    lineNumber: 119
   },
   __self: undefined
 }, __jsx("li", {
   className: "logo",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 121
+    lineNumber: 120
   },
   __self: undefined
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 122
+    lineNumber: 121
   },
   __self: undefined
 }, __jsx("a", {
   className: "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 123
+    lineNumber: 122
   },
   __self: undefined
 }, __jsx("span", {
   className: "link-text",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 124
+    lineNumber: 123
   },
   __self: undefined
 }, "ggmn"), __jsx("svg", {
@@ -434,7 +434,7 @@ const SideNavbar = () => __jsx(Nav, {
   className: "fa-primary",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 125
+    lineNumber: 124
   },
   __self: undefined
 }, __jsx("path", {
@@ -442,28 +442,28 @@ const SideNavbar = () => __jsx(Nav, {
   d: "M18.32 255.78L192 223.96l-91.28 68.69c-10.08 10.08-2.94 27.31 11.31 27.31h222.7c-9.44-26.4-14.73-54.47-14.73-83.38v-42.27l-119.73-87.6c-23.82-15.88-55.29-14.01-77.06 4.59L5.81 227.64c-12.38 10.33-3.45 30.42 12.51 28.14zm556.87 34.1l-100.66-50.31A47.992 47.992 0 0 1 448 196.65v-36.69h64l28.09 22.63c6 6 14.14 9.37 22.63 9.37h30.97a32 32 0 0 0 28.62-17.69l14.31-28.62a32.005 32.005 0 0 0-3.02-33.51l-74.53-99.38C553.02 4.7 543.54 0 533.47 0H296.02c-7.13 0-10.7 8.57-5.66 13.61L352 63.96 292.42 88.8c-5.9 2.95-5.9 11.36 0 14.31L352 127.96v108.62c0 72.08 36.03 139.39 96 179.38-195.59 6.81-344.56 41.01-434.1 60.91C5.78 478.67 0 485.88 0 494.2 0 504 7.95 512 17.76 512h499.08c63.29.01 119.61-47.56 122.99-110.76 2.52-47.28-22.73-90.4-64.64-111.36zM489.18 66.25l45.65 11.41c-2.75 10.91-12.47 18.89-24.13 18.26-12.96-.71-25.85-12.53-21.52-29.67z",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 136
+    lineNumber: 135
   },
   __self: undefined
 }))))), __jsx("li", {
   className: "nav-item",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 144
+    lineNumber: 143
   },
   __self: undefined
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/news",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 145
+    lineNumber: 144
   },
   __self: undefined
 }, __jsx("a", {
   className: "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 146
+    lineNumber: 145
   },
   __self: undefined
 }, __jsx("svg", {
@@ -478,7 +478,7 @@ const SideNavbar = () => __jsx(Nav, {
   className: "fa-primary",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 147
+    lineNumber: 146
   },
   __self: undefined
 }, __jsx("path", {
@@ -486,35 +486,35 @@ const SideNavbar = () => __jsx(Nav, {
   d: "M552 64H112c-20.858 0-38.643 13.377-45.248 32H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h496c13.255 0 24-10.745 24-24V88c0-13.255-10.745-24-24-24zM48 392V144h16v248c0 4.411-3.589 8-8 8s-8-3.589-8-8zm480 8H111.422c.374-2.614.578-5.283.578-8V112h416v288zM172 280h136c6.627 0 12-5.373 12-12v-96c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v96c0 6.627 5.373 12 12 12zm28-80h80v40h-80v-40zm-40 140v-24c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zm192 0v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0-144v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12zm0 72v-24c0-6.627 5.373-12 12-12h104c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12H364c-6.627 0-12-5.373-12-12z",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 156
+    lineNumber: 157
   },
   __self: undefined
 })), __jsx("span", {
   className: "link-text",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 161
+    lineNumber: 162
   },
   __self: undefined
 }, "\u041C\u044D\u0434\u044D\u044D")))), __jsx("li", {
   className: "nav-item",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 165
+    lineNumber: 166
   },
   __self: undefined
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/games",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 166
+    lineNumber: 167
   },
   __self: undefined
 }, __jsx("a", {
   className: "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 167
+    lineNumber: 168
   },
   __self: undefined
 }, __jsx("svg", {
@@ -529,7 +529,7 @@ const SideNavbar = () => __jsx(Nav, {
   className: "fa-primary",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 168
+    lineNumber: 169
   },
   __self: undefined
 }, __jsx("path", {
@@ -537,35 +537,35 @@ const SideNavbar = () => __jsx(Nav, {
   d: "M395.5 177.5c0 33.8-27.5 61-61 61-33.8 0-61-27.3-61-61s27.3-61 61-61c33.5 0 61 27.2 61 61zm52.5.2c0 63-51 113.8-113.7 113.8L225 371.3c-4 43-40.5 76.8-84.5 76.8-40.5 0-74.7-28.8-83-67L0 358V250.7L97.2 290c15.1-9.2 32.2-13.3 52-11.5l71-101.7c.5-62.3 51.5-112.8 114-112.8C397 64 448 115 448 177.7zM203 363c0-34.7-27.8-62.5-62.5-62.5-4.5 0-9 .5-13.5 1.5l26 10.5c25.5 10.2 38 39 27.7 64.5-10.2 25.5-39.2 38-64.7 27.5-10.2-4-20.5-8.3-30.7-12.2 10.5 19.7 31.2 33.2 55.2 33.2 34.7 0 62.5-27.8 62.5-62.5zm207.5-185.3c0-42-34.3-76.2-76.2-76.2-42.3 0-76.5 34.2-76.5 76.2 0 42.2 34.3 76.2 76.5 76.2 41.9.1 76.2-33.9 76.2-76.2z",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 178
+    lineNumber: 180
   },
   __self: undefined
 })), __jsx("span", {
   className: "link-text",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 182
+    lineNumber: 185
   },
   __self: undefined
 }, "\u0422\u043E\u0433\u043B\u043E\u043E\u043C")))), __jsx("li", {
   className: "nav-item",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 186
+    lineNumber: 189
   },
   __self: undefined
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/software",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 187
+    lineNumber: 190
   },
   __self: undefined
 }, __jsx("a", {
   className: "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 188
+    lineNumber: 191
   },
   __self: undefined
 }, __jsx("svg", {
@@ -580,7 +580,7 @@ const SideNavbar = () => __jsx(Nav, {
   className: "fa-primary",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 189
+    lineNumber: 192
   },
   __self: undefined
 }, __jsx("path", {
@@ -588,28 +588,28 @@ const SideNavbar = () => __jsx(Nav, {
   d: "M528 0H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h192l-16 48h-72c-13.3 0-24 10.7-24 24s10.7 24 24 24h272c13.3 0 24-10.7 24-24s-10.7-24-24-24h-72l-16-48h192c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zm-16 352H64V64h448v288z",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 199
+    lineNumber: 203
   },
   __self: undefined
 })), __jsx("span", {
   className: "link-text",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 202
+    lineNumber: 208
   },
   __self: undefined
 }, "\u0421\u043E\u0444\u0442\u0432\u0435\u0440")))), __jsx("li", {
   className: "nav-item",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 206
+    lineNumber: 212
   },
   __self: undefined
 }, __jsx("a", {
   className: "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 207
+    lineNumber: 213
   },
   __self: undefined
 }, __jsx("svg", {
@@ -624,7 +624,7 @@ const SideNavbar = () => __jsx(Nav, {
   className: "fa-primary",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 208
+    lineNumber: 214
   },
   __self: undefined
 }, __jsx("path", {
@@ -632,14 +632,14 @@ const SideNavbar = () => __jsx(Nav, {
   d: "M256 8C118.941 8 8 118.919 8 256c0 137.059 110.919 248 248 248 48.154 0 95.342-14.14 135.408-40.223 12.005-7.815 14.625-24.288 5.552-35.372l-10.177-12.433c-7.671-9.371-21.179-11.667-31.373-5.129C325.92 429.757 291.314 440 256 440c-101.458 0-184-82.542-184-184S154.542 72 256 72c100.139 0 184 57.619 184 160 0 38.786-21.093 79.742-58.17 83.693-17.349-.454-16.91-12.857-13.476-30.024l23.433-121.11C394.653 149.75 383.308 136 368.225 136h-44.981a13.518 13.518 0 0 0-13.432 11.993l-.01.092c-14.697-17.901-40.448-21.775-59.971-21.775-74.58 0-137.831 62.234-137.831 151.46 0 65.303 36.785 105.87 96 105.87 26.984 0 57.369-15.637 74.991-38.333 9.522 34.104 40.613 34.103 70.71 34.103C462.609 379.41 504 307.798 504 232 504 95.653 394.023 8 256 8zm-21.68 304.43c-22.249 0-36.07-15.623-36.07-40.771 0-44.993 30.779-72.729 58.63-72.729 22.292 0 35.601 15.241 35.601 40.77 0 45.061-33.875 72.73-58.161 72.73z",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 218
+    lineNumber: 225
   },
   __self: undefined
 })), __jsx("span", {
   className: "link-text",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 222
+    lineNumber: 230
   },
   __self: undefined
 }, "\u0425\u043E\u043B\u0431\u043E\u043E \u0431\u0430\u0440\u0438\u0445")))));
